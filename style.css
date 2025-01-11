@@ -51,8 +51,8 @@ body {
     border-radius: 5px;
     background-color: rgb(0, 106, 80);
     color: rgb(255, 255, 255);
-    font-size: 18px;
-    padding: 17px 34px;
+    font-size: 17px;
+    padding: 12px 25px;
     border: none;
     font-weight: 600;
     cursor: pointer;
@@ -68,7 +68,7 @@ body {
     margin: 20px 100px;
 }
 
-.vision-card-container{
+.vision-card-container {
 
     display: flex;
     gap: 24px;
@@ -91,7 +91,7 @@ body {
     width: 33.3%;
 }
 
-.vision-card-3{
+.vision-card-3 {
 
     border-radius: 10px;
     background-color: rgb(247, 235, 207);
@@ -131,7 +131,7 @@ body {
     margin: 15px 0;
 }
 
-.vision-btn-1{
+.vision-btn-1 {
 
     border-radius: 5px;
     background-color: rgb(84, 144, 245);
@@ -142,7 +142,8 @@ body {
     font-weight: 600;
     cursor: pointer;
 }
-.vision-btn-2{
+
+.vision-btn-2 {
 
     border-radius: 5px;
     background-color: rgb(9, 161, 92);
@@ -154,7 +155,7 @@ body {
     cursor: pointer;
 }
 
-.vision-btn-3{
+.vision-btn-3 {
 
     border-radius: 5px;
     background-color: rgb(255, 194, 57);
@@ -165,11 +166,69 @@ body {
     font-weight: 600;
     cursor: pointer;
 }
+
 /* The Vision Of Future Style End */
 
 /* Recent News Style Start */
 
+.recent-news-container {
 
+    margin: 20px 100px;
+}
 
+.recent-news-title {
 
+    color: rgb(14, 14, 14);
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-bottom: 15px;
+}
+
+.recent-news-description {
+
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 15px 0;
+}
+
+.recent-news-card-1-container {
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 48px;
+    display: flex;
+    gap: 32px;
+    margin-bottom: 24px;
+}
+
+.recent-news-card-1-container img {
+
+    border-radius: 15px;
+}
+
+.recent-news-content-title {
+
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.recent-news-card-2-container {
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 48px;
+    display: flex;
+    gap: 32px;
+}
+
+.recent-news-card-2-container img {
+
+    border-radius: 15px;
+}
+
+/* Recent News Style End */
 
