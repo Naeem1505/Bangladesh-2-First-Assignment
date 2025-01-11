@@ -18,7 +18,42 @@ body {
     background-color: rgb(245, 245, 245);
 }
 
-/* Style For Banner Section */
+/* Navbar Section Style - Start */
+
+.navbar-section {
+
+    margin: 0 100px;
+}
+
+.navbar-container {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-container h2 {
+
+    color: rgb(14, 14, 14);
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.navbar-container button {
+
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 106, 80);
+    border-radius: 5px;
+    padding: 15px 30px 15px 30px;
+    color: rgb(0, 106, 80);
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+/* Navbar Section Style - End */
+
+/* Banner Section Style - Start */
 
 
 .banner-container {
@@ -204,7 +239,7 @@ body {
     margin-bottom: 15px;
 }
 
-.goverment{
+.goverment {
 
     color: rgba(14, 14, 14, 0.7);
     font-size: 16px;
@@ -212,7 +247,7 @@ body {
     margin-bottom: 20px;
 }
 
-/* /* Dr. Mohammed Yunus Style End */ */
+/* Dr. Mohammed Yunus Style End */
 
 /* Recent News Style Start */
 
