@@ -211,7 +211,7 @@ body {
 .recent-news-content-title {
 
     color: rgba(14, 14, 14, 0.8);
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 700;
     margin-bottom: 15px;
 }
@@ -232,3 +232,114 @@ body {
 
 /* Recent News Style End */
 
+/* Donate Today Style Start */
+
+.donate-today-section {
+
+    margin: 80px 100px;
+}
+
+.donate-today-section h1 {
+
+    color: rgb(14, 14, 14);
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 22px;
+    text-align: center;
+}
+
+.donate-today-section p {
+
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0 80px;
+    text-align: center;
+}
+
+.donate-card-container {
+
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+
+.donate-taka {
+
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+    padding: 35px;
+    width: 240px;
+    cursor: pointer
+}
+
+.special {
+
+    background-color: rgb(198, 228, 214);
+}
+
+.first:hover {
+
+    background-color: salmon;
+}
+
+.third:hover {
+
+    background-color: violet;
+}
+
+.four:hover {
+
+    background-color: springgreen;
+}
+
+.donate-taka h2 {
+
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.other-amount {
+
+    margin-top: 32px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.other-amount input[type="text"] {
+
+    box-sizing: border-box;
+    border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(255, 255, 255);
+    padding: 20px 40px 20px 40px;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    height: 55px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.donate-btn{
+
+    display: flex;
+    justify-content: center;
+}
+
+.common-btn-donate{
+
+    border-radius: 5px;
+    background-color: rgb(0, 106, 80);
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    padding: 12px 25px;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 15px;
+}
