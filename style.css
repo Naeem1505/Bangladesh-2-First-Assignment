@@ -398,3 +398,39 @@ body {
 }
 
 /* Subscribe Newsletter Style End */
+
+/* Footer Style Start */
+
+footer{
+
+    background-color: rgb(255, 255, 255);
+    padding: 50px 160px 50px 160px;
+}
+
+footer h2{
+
+    color: rgb(14, 14, 14);
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 22px;
+    text-align: center;
+}
+
+.footer-image{
+
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.copyright{
+
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0 80px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Footer Style End */
