@@ -169,6 +169,51 @@ body {
 
 /* The Vision Of Future Style End */
 
+/* Dr. Mohammed Yunus Style Start */
+
+.mohammed-yunus-section {
+
+    margin: 80px 100px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    padding: 48px 24px 48px 24px;
+}
+
+.mohammed-yunus-description {
+
+    background-image: url(./image/quote-bg.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding-top: 30px;
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.yunus {
+
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.goverment{
+
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+/* /* Dr. Mohammed Yunus Style End */ */
+
 /* Recent News Style Start */
 
 .recent-news-container {
@@ -354,7 +399,7 @@ body {
     padding: 80px 100px;
 }
 
-.subscribe-newsletter-container h2{
+.subscribe-newsletter-container h2 {
 
     color: rgb(14, 14, 14);
     font-size: 35px;
@@ -363,7 +408,7 @@ body {
     text-align: center;
 }
 
-.subscribe-newsletter-container p{
+.subscribe-newsletter-container p {
 
     color: rgba(14, 14, 14, 0.7);
     font-size: 16px;
@@ -372,7 +417,7 @@ body {
     text-align: center;
 }
 
-.subscribe{
+.subscribe {
 
     display: flex;
     justify-content: center;
@@ -387,7 +432,7 @@ body {
     padding-left: 20px;
 }
 
-.spam{
+.spam {
 
     color: rgba(14, 14, 14, 0.7);
     font-size: 16px;
@@ -401,13 +446,13 @@ body {
 
 /* Footer Style Start */
 
-footer{
+footer {
 
     background-color: rgb(255, 255, 255);
     padding: 50px 160px 50px 160px;
 }
 
-footer h2{
+footer h2 {
 
     color: rgb(14, 14, 14);
     font-size: 35px;
@@ -416,14 +461,14 @@ footer h2{
     text-align: center;
 }
 
-.footer-image{
+.footer-image {
 
     display: flex;
     justify-content: center;
     gap: 25px;
 }
 
-.copyright{
+.copyright {
 
     color: rgba(14, 14, 14, 0.7);
     font-size: 16px;
